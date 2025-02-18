@@ -18,7 +18,7 @@ def main():
     df = load_arff_to_dataframe(file_path)
     
     # Print the first few rows
-    print(df.head())
+    print(df.head()) 
 
 if __name__ == "__main__":
     main()
