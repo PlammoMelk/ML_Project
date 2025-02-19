@@ -1,1 +1,4 @@
 connect4_rf_model.pkl
+random_forest.pkl
+mlp_classifier.pkl
+decision_tree.pkl
